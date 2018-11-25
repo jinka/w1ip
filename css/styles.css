@@ -28,3 +28,15 @@
   height: 420px;
   background-color: #D6E9FE;
 }
+.h1 {
+  font-size: 30px;
+}
+.h2 {
+  font-size: 20px;
+}
+.img1 {
+  float: right;
+  height: 100px;
+  width: 200px;
+}
+
