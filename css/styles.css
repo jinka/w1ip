@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+.thetop {
+  height: 90px;
+  background-color: #795555;
+  text-align: center;
+}
+.leftside {
+  margin-top: 10px;
+  margin-right: 4px;
+  float: left;
+  width: 200px;
+  height: 260px;
+  background-color: #DCD1D1;
+}
